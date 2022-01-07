@@ -10,3 +10,5 @@ def my_function():
     return new_text
 
 result = my_function()
+
+# И снова пояснение к коду
