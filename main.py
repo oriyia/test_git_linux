@@ -11,6 +11,6 @@ def my_function():
 
 result = my_function()
 
-my_email = 'other@mail.com'
+my_email = 'originalyia@gmail.com'
 
 # И снова пояснение к коду!
