@@ -2,7 +2,7 @@ print('Hello, World!')
 
 # Просто добавил пояснение к коду, и еще кое-что.
 
-my_number = 200
+my_number = 1000
 my_text = 'Мой текст!'
 
 def my_function():
