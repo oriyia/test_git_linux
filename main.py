@@ -2,7 +2,7 @@ print('Hello, World!')
 
 # Просто добавил пояснение к коду, и еще кое-что.
 
-my_number = 2000
+my_number = 20
 my_text = 'Мой текст!'
 
 def my_function():
@@ -13,4 +13,4 @@ result = my_function()
 
 my_email = 'other@mail.com'
 
-# И снова пояснение к коду!
+ И снова пояснение к коду!
